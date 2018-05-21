@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  hardinstrongcore:
+    image: hardinstrongcore
+    build:
+      context: .
+      dockerfile: HardinStrongCore/Dockerfile
