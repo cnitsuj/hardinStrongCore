@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace HardinStrongRazor.Pages
 {
-    public class IndexModel : PageModel
+    public class DonateModel : PageModel
     {
         public void OnGet()
         {
